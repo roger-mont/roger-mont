@@ -1,43 +1,40 @@
-<h1 align="center">Roger Monteiro</h1>
-<p align="center"><b>Full-stack developer · Hardware ↔ Software · Manaus, Brazil</b></p>
-<p align="center">🇧🇷 <a href="README.md">Versão em português</a></p>
+<div align="center">
 
-What sets me apart is end-to-end integration between **physical hardware and modern software**: from the electronics bench and sensor signal acquisition and calibration, all the way to the final app in React, native Android or Wear OS, backed by APIs, Docker and CI/CD on self-hosted infrastructure.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/dark/header.svg"/><img src="assets/en/light/header.svg" alt="Roger Monteiro"/></picture>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,ts,react,nextjs,tailwind,kotlin,androidstudio,supabase,postgres,docker,githubactions,linux,arduino,cpp&perline=16" alt="Stack" />
-</p>
+<a href="https://github.com/roger-mont?tab=repositories&q=showcase"><img src="https://img.shields.io/badge/showcases-7_systems-e3a046?style=flat-square&labelColor=161b22" alt=""/></a> <img src="https://img.shields.io/badge/Manaus-AM-3fb950?style=flat-square&labelColor=161b22" alt=""/>
 
-## 🧭 Where I go deepest
+🇧🇷 <a href="README.md">Versão em português</a>
 
-| Pillar | Skills | Where it shows |
-|---|---|---|
-| **Embedded systems & IoT** | ESP32, C/C++, analog multiplexing, USB HID and serial, Home Assistant, IR automation (Tuya), SmartThings, offline wake word (openWakeWord), bench electronics and component/PCB verification with an LCR meter | Smart hospital bed, PillGo, A.L.A., FabLab |
-| **Full stack & mobile** | Django/DRF, FastAPI, Next.js, React, Ionic + Capacitor, Tailwind, TypeScript, Kotlin + Jetpack Compose, Wear OS, Supabase (Postgres, Auth, Realtime) | Heimdall, Átrio, Argo, Inventory App, PlanSasa |
-| **Applied data & automation** | Python, NumPy, polynomial and linear calibration, models for noisy signals, web portal automation and RPA | Smart hospital bed, Argo, FabLab |
-| **Infrastructure & DevOps** | Linux, Docker, Nginx, GitHub Actions, GHCR, self-hosted runners, homelab with Umbrel and Tailscale | CI/CD platform, self-hosted backends |
+</div>
 
-## 🏢 Production systems (law firm)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/dark/s01.svg"/><img src="assets/en/light/s01.svg" alt="01 whoami"/></picture>
 
-The code is private. Each showcase covers the problem, the architecture in diagrams, screenshots and my role.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/dark/whoami.svg"/><img src="assets/en/light/whoami.svg" alt="cat roger.yaml"/></picture>
 
-| Showcase | What it is | Stack |
-|---|---|---|
-| [**Heimdall**](https://github.com/roger-mont/showcase-heimdall) | Project and task management: boards, time tracking, real-time chat, recorded calls and an MCP server for AI agents. Lead author. | Django · DRF · Channels · Next.js · LiveKit · MCP |
-| [**CI/CD platform**](https://github.com/roger-mont/showcase-cicd) | One pipeline for every app, with deploys that roll back on their own, plus the team's Claude Code plugin. I built both. | GitHub Actions · Docker · GHCR |
-| [**Argo**](https://github.com/roger-mont/showcase-argo) | Pulls clients' payslips from government portals with background jobs. I built the single sign-on through Átrio and the assisted-collection browser extension. | Django · Next.js · Playwright · browser extension |
-| [**Átrio**](https://github.com/roger-mont/showcase-atrio) | Central registry and single sign-on for the firm's systems, built by a team. I created the performance module (targets, deadlines, reports) and the time-clock integration. | Django · Celery · Redis · Next.js |
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/dark/s02.svg"/><img src="assets/en/light/s02.svg" alt="02"/></picture>
 
-## 🔬 Research, lab and personal projects
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/dark/pipeline.svg"/><img src="assets/en/light/pipeline.svg" alt="Projects by layer"/></picture>
 
-| Project | What it is | Stack |
-|---|---|---|
-| [**Smart Hospital Bed**](https://github.com/roger-mont/samel-project) | 32×64 FSR sensor matrix in 8 sectors, read over USB HID at ~40 Hz, calibration and weight estimation, pressure-injury risk alerts, offline-first | Python · FastAPI · NumPy · SQLite |
-| [**PillGo Mobile**](https://github.com/repo-fablab/smartpill-mobile) + [**Wear OS**](https://github.com/repo-fablab/smartpill-wearos) | Medication adherence: ESP32 dispenser, mobile app and smartwatch alerts, QR-code pairing | Ionic · React · MQTT · Supabase · Kotlin |
-| [**A.L.A.**](https://github.com/roger-mont/showcase-ala) | Guide robot for the Samsung Ocean Manaus FabLab: voice, wake word, room automation (team project) | Python · SmartThings · Serial |
-| [**Inventory App**](https://github.com/roger-mont/showcase-inventory-app) | Lab inventory with QR codes, stock movements and a monthly report | React · Capacitor · Supabase |
-| [**PlanSasa**](https://github.com/roger-mont/showcase-plansasa) | Gamified Android planner, offline-first, with self-hosted sync | Kotlin · Compose · Ktor · PostgreSQL |
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/dark/s03.svg"/><img src="assets/en/light/s03.svg" alt="03"/></picture>
 
-## 📚 Education
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/dark/stack.svg"/><img src="assets/en/light/stack.svg" alt="Stack"/></picture>
 
-Software development at **Trybe** (front end, back end, computer science, Python and Java). The course projects are archived on this profile.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/dark/s04.svg"/><img src="assets/en/light/s04.svg" alt="04"/></picture>
+
+<p align="center"><a href="https://github.com/roger-mont/showcase-heimdall"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/dark/card-heimdall.svg"/><img src="assets/en/light/card-heimdall.svg" alt="Heimdall" width="49%"/></picture></a><a href="https://github.com/roger-mont/showcase-cicd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/dark/card-cicd.svg"/><img src="assets/en/light/card-cicd.svg" alt="CI/CD" width="49%"/></picture></a></p>
+<p align="center"><a href="https://github.com/roger-mont/showcase-argo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/dark/card-argo.svg"/><img src="assets/en/light/card-argo.svg" alt="Argo" width="49%"/></picture></a><a href="https://github.com/roger-mont/showcase-atrio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/dark/card-atrio.svg"/><img src="assets/en/light/card-atrio.svg" alt="Átrio" width="49%"/></picture></a></p>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/dark/s05.svg"/><img src="assets/en/light/s05.svg" alt="05"/></picture>
+
+<p align="center"><a href="https://github.com/roger-mont/samel-project"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/dark/card-maca.svg"/><img src="assets/en/light/card-maca.svg" alt="Smart hospital bed" width="49%"/></picture></a><a href="https://github.com/repo-fablab/smartpill-mobile"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/dark/card-pillgo.svg"/><img src="assets/en/light/card-pillgo.svg" alt="PillGo" width="49%"/></picture></a></p>
+<p align="center"><a href="https://github.com/roger-mont/showcase-ala"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/dark/card-ala.svg"/><img src="assets/en/light/card-ala.svg" alt="A.L.A." width="49%"/></picture></a><a href="https://github.com/roger-mont/showcase-inventory-app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/dark/card-inventory.svg"/><img src="assets/en/light/card-inventory.svg" alt="Inventory App" width="49%"/></picture></a></p>
+<p align="center"><a href="https://github.com/roger-mont/showcase-plansasa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/dark/card-plansasa.svg"/><img src="assets/en/light/card-plansasa.svg" alt="PlanSasa" width="49%"/></picture></a></p>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/dark/s06.svg"/><img src="assets/en/light/s06.svg" alt="06"/></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/dark/telemetry.svg"/><img src="assets/en/light/telemetry.svg" alt="Telemetry"/></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/dark/footer.svg"/><img src="assets/en/light/footer.svg" alt="Status"/></picture>
+
+<p align="right"><sub>Education: software development at Trybe · each card opens the project showcase</sub></p>
